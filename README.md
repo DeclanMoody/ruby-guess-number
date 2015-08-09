@@ -1,4 +1,4 @@
-# ruby-guess-number
+# Ruby Guess Number
 My first Ruby app that allows you to play a number guessing game.
 
 ## Run Program
